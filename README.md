@@ -17,7 +17,7 @@
   “CompleteCCG_x” contains the results obtained by the complete C&CG algorithm on the instances with x processes, where “TC” is total resource investment cost, “Gap” denotes the gap between LB and UB of the C&CG algorithm, “Time” means CPU time in seconds and “IT” means the iterations of the C&CG algorithm. Moreover, for 20 and 30 processes, the results corresponding to different budgets of uncertainty represented by \varepsilon are given. 
   “PureCCG”, “SelfstartCCG” and “Compact” are the results obtained by pure C&CG algorithm, the C&CG algorithm only with self-start technique and the compact reformulation adapted from literature, respectively. 
   “Completiontime_x” contains the results under different completion times obtained by solving the instances with x processes.
-  “lamda_x” contains the results under different levels of uncertainty (represented by \lambda) by solving the instances with x processes.
+  “lamda_x” contains the results under different levels of uncertainty (represented by \lambda) by solving the instances with x processes. 
   Note that, for the “\jxxxx_x_x” in the “instance” column, the last “x” has no actual implications. 
 
 ## Contact Information
